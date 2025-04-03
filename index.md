@@ -14,7 +14,6 @@ My research interests lie in leveraging large-scale datasets and combining desig
 
 Here is my [CV](https://www.dropbox.com/scl/fi/itqq9284dkdvlexrhnpwx/CV_KangkaiWANG.pdf?rlkey=dxhyl23eriu8ksbbl4uyg3ym7&st=7bsjch25&dl=0).
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="343635de-7d0f-43ea-922d-432566a4b1e5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 {% include_relative _includes/news.md %}
 
