@@ -8,7 +8,7 @@ layout: homepage
 
 Welcome to my website!
 
-I am Kangkai Wang (王慷楷), a Ph.D. candidate in Economics at the [Guanghua School of Management](https://en.gsm.pku.edu.cn/), [Peking University](https://english.pku.edu.cn/) and I expect to graduate in June 2025. 
+I am Kangkai Wang (王慷楷), an Econ Ph.D. candidate at the [Guanghua School of Management](https://en.gsm.pku.edu.cn/), [Peking University](https://english.pku.edu.cn/) and I expect to graduate in June 2025. 
 
 My research interests lie in leveraging large-scale datasets and combining design-based (reduced-form) and model-based (structural) approaches to explore topics in urban economics, environmental economics, and empirical industrial organization. 
 
