@@ -4,5 +4,5 @@
 
 <ul>
 
-<li><strong>Microclimate Risks and Urban Businesses<strong> (with Jianwei Xing, Hua Zhang, Shuang Zhang, and Eric Zou)</li>
+<li><strong>Microclimate Risks and Urban Businesses <span style="color:#e74d3c"><a href="https://urbaneconomics.org/meetings/emuea2025/">14th European Meeting of the Urban Economics Association</a></span>. (with Jianwei Xing, Hua Zhang, Shuang Zhang, and Eric Zou)</li>
 </ul>
