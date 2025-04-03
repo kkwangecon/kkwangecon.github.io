@@ -1,13 +1,14 @@
 main:
 
-  - title: "Conferences & Events"
-    url: ./#conferences
-
-  - title: "Publications"
-    url: ./#publications
-
   - title: "Teaching"
     url: ./#teaching
+    right: true
+
+  - title: "Work in Progress"
+    url: ./#workinprogress
+
+  - title: "Working Papers"
+    url: ./#workingpapers
 
   - title: "News"
     url: ./#news
