@@ -21,17 +21,3 @@ Here is a short introduction about me.
   </div>
   <button onclick="toggleContent()">Show More</button>
 </div>
-
-<script>
-function toggleContent() {
-  var content = document.getElementById("more-content");
-  var button = event.target;
-  if (content.style.display === "none") {
-    content.style.display = "block";
-    button.textContent = "Show Less";
-  } else {
-    content.style.display = "none";
-    button.textContent = "Show More";
-  }
-}
-</script>
