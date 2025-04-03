@@ -30,9 +30,9 @@ enable_last_update: false
 #researchgate: https://www.researchgate.net/profile/Song-Chen-60
 
 # Images 
-avatar: ./assets/img/website_Jan2025_copy.jpg
-favicon: ./assets/img/website_Jan2025_copy.jpg
-favicon_dark: ./assets/img/website_Jan2025_copy.jpg
+avatar: ./assets/img/website_Jan2025_ratio1.jpg
+favicon: ./assets/img/website_Jan2025_ratio1.jpg
+favicon_dark: ./assets/img/website_Jan2025_ratio1.jpg
 
 # Footnotes
 # Footnote
