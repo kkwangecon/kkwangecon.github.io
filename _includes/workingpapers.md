@@ -4,5 +4,5 @@
 
 <ul>
 
-<li><strong>Microclimate Risks and Urban Businesses</strong> (with <span style="color:#e74d3c"><a href="https://www.jianweixing.com/">Jianwei Xing</a></span>., Hua Zhang, Shuang Zhang, and Eric Zou)</li>
+<li><strong>Microclimate Risks and Urban Businesses</strong> (with <span style="color:#e74d3c"><a href="https://www.jianweixing.com/">Jianwei Xing</a></span>, <span style="color:#e74d3c"><a href="https://www.ceibs.edu/zhang-hua">Hua Zhang</a></span>, <span style="color:#e74d3c"><a href="https://sites.google.com/view/shuangzhang">Shuang Zhang</a></span>, and <span style="color:#e74d3c"><a href="https://www.eric-zou.com/">Eric Zou</a></span>)</li>
 </ul>
