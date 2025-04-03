@@ -8,4 +8,6 @@
 
 <li><strong>Why Are Commutes So Short in China? The Role of Travel Aversion and Location Adaptability</strong> (with <span style="color:#e74d3c"><a href="https://yizhengu.weebly.com/">Yizhen Gu</a></span>, <span style="color:#e74d3c"><a href="https://zhiwang2013brownecon.weebly.com/">Zhi Wang</a></span>, and <span style="color:#e74d3c"><a href="https://en.gsm.pku.edu.cn/faculty/zhangq/">Qinghua Zhang</a></span>)</li>
 
+<li><strong>Gradual Optimization Against Heterogeneous Moral Hazard: Evidence from a Fintech Lending Firm</strong> (with <span style="color:#e74d3c"><a href="https://lichengzheng.weebly.com/">Chengzheng Li</a></span>, and <span style="color:#e74d3c"><a href="https://sites.google.com/site/xiangma6">Xiang Ma</a></span>)</li>
+
 </ul>
