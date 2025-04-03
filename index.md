@@ -6,7 +6,11 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am currently a Physics Ph.D. candidate at [Spin-Ion Technologies](https://www.spin-ion.com/) and [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), working under the mentorship of Dr. [Ravelosona dafiné](https://www.spin-ion.com/about-us/), the director of research [CNRS](https://www.cnrs.fr/fr) and CTO of [Spin-Ion Technologies](https://www.spin-ion.com/). My research involves magnetoelectric ("ME") materials for energy-efficient information technology and "ME" materials for data security in information technology using Multiferroics/Magneto-ionics/Surface charging, with a special focus on the boosting magneto-ionic effect using ion irradiation and implantation.
+Welcome to my website!
+
+I am Kangkai Wang (王慷楷), a Ph.D. candidate in Economics at the [Guanghua School of Management, Peking University](https://en.gsm.pku.edu.cn/), and I expect to graduate in June 2025. My research interests lie in leveraging large-scale datasets and combining design-based (reduced-form) and model-based (structural) approaches to explore topics in urban economics, environmental economics, and empirical industrial organization. 
+
+Here is my [CV](https://www.dropbox.com/scl/fi/itqq9284dkdvlexrhnpwx/CV_KangkaiWANG.pdf?rlkey=dxhyl23eriu8ksbbl4uyg3ym7&st=7bsjch25&dl=0).
 
 ## Research Interest
 
