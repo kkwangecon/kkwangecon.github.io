@@ -10,7 +10,7 @@
   <li>
     <div class="show-more-container">
       <div class="content" id="more-content-1" style="display: none;">
-        <strong>[Mar. 2025]</strong> 
+        dddd
       </div>
       <button onclick="toggleContent('more-content-1')">Show More</button>
     </div>
