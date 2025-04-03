@@ -24,7 +24,10 @@
   <li>
     <div class="show-more-container">
       <div class="content" id="more-content-1" style="display: none;">
-        <p>...</p>
+        <strong>[Jan. 2025]</strong> Our paper has been accepted for the " 
+    <span style="color:#e74d3c">
+      <a href="https://www.aeaweb.org/conference/2025/program/1986?q=eNqrVipOLS7OzM8LqSxIVbKqhnGVrJQMlWp1lJITS1LT84sqgXwlHaXE4uL8ZAizJLUoF8JKSYTKlmTmpkJYZZmp5SDDigoKgAKmBiCTChLTQbKGQA5cMHwsXCKQ">Climate Change Impact, Adaptation, and Resilience in the Developing World</a>
+    </span>" session at ASSA 2025.
       </div>
       <button onclick="toggleContent('more-content-1', this)">Show More</button>
     </div>
