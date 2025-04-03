@@ -17,10 +17,6 @@ Here is my [CV](https://www.dropbox.com/scl/fi/itqq9284dkdvlexrhnpwx/CV_KangkaiW
 
 {% include_relative _includes/news.md %}
 
-{% include_relative _includes/projects.md %}
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/conference.md %}
+{% include_relative _includes/research.md %}
 
 {% include_relative _includes/contact.md %}
