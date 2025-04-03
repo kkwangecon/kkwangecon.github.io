@@ -6,14 +6,11 @@ main:
   - title: "Publications"
     url: ./#publications
 
-  - title: "Projects"
-    url: ./#projects
+  - title: "Teaching"
+    url: ./#teaching
 
   - title: "News"
     url: ./#news
-
-  - title: "Blogs"
-    url: ./blog/
 
   - title: "Bio"
     url: ./#about-me
