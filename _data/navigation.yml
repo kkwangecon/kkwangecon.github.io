@@ -1,9 +1,5 @@
 main:
 
-  - title: "Contact"
-    url: ./#contact 
-    right: true 
-
   - title: "Conferences & Events"
     url: ./#conferences
 
