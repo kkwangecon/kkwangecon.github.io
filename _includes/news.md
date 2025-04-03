@@ -24,7 +24,10 @@
   <li>
     <div class="show-more-container">
       <div class="content" id="more-content-1" style="display: none;">
-        <p>dddd</p>
+        <strong>[Mar. 2025]</strong> I will be presenting at the 
+    <span style="color:#e74d3c">
+      <a href="https://urbaneconomics.org/meetings/emuea2025/">14th European Meeting of the Urban Economics Association</a>
+    </span>.
       </div>
       <button onclick="toggleContent('more-content-1', this)">Show More</button>
     </div>
