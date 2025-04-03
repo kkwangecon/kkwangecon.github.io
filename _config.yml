@@ -5,7 +5,7 @@ affiliation: Peking University
 subaffiliation: Guanghua School of Management 
 affiliation_link: https://english.pku.edu.cn/ 
 subaffiliation_link: https://en.gsm.pku.edu.cn/
-affiliation_logo: ./assets/img/logopku.png
+affiliation_logo: "<img src='./assets/img/logopku.png' style='width:150px; height:auto;'>"
 email: kkwangecon@stu.pku.edu.cn
 #email2: song.chen (at) universite-paris-saclay.fr
 #address: 10 Bd Thomas Gobert, 91120 Palaiseau
