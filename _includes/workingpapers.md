@@ -12,7 +12,7 @@
 <li>
     <div style="margin-top: 10px;">
       <strong>Why Are Commutes So Short in China? The Role of Travel Aversion and Location Adaptability</strong> (with <span style="color:#e74d3c"><a href="https://yizhengu.weebly.com/">Yizhen Gu</a></span>, <span style="color:#e74d3c"><a href="https://zhiwang2013brownecon.weebly.com/">Zhi Wang</a></span>, and <span style="color:#e74d3c"><a href="https://en.gsm.pku.edu.cn/faculty/zhangq/">Qinghua Zhang</a></span>)</div>
-<div style="margin-top: 2px;"> <u>Presentations</u>: <em>PKU Urban Economics Workshop, 14th European Meeting of the Urban Economics Association, PHBS Urban Economics Workshop</em> </div>
+<div style="margin-top: 2px;"> <u>Presentations</u>: <em>GSM Urban Economics Workshop@PKU, 14th European Meeting of the Urban Economics Association, PHBS Urban Economics Workshop</em> </div>
 </li>
 
 <li>
