@@ -9,16 +9,12 @@
     </span>.
   </li>
 
-  <li><strong>[Mar. 2025]</strong> The RA project I worked on, 
-    "<span style="color:#e74d3c">
-      <a href="https://www.aeaweb.org/articles?id=10.1257/aer.20200374&&from=f">
-        The Geographic Flow of Bank Funding and Access to Credit: Branch Networks, Synergies, and Local Competition
+  <li><strong>[May 2025]</strong> "I will deliver a mini lecture on my research in urban and environmental economics at the 
+    <span style="color:#e74d3c">
+      <a href="https://site.uibe.edu.cn/english/english.html">
+        School of International Trade and Economics, University of International Business and Economics.
       </a>
-    </span>" (by 
-    <span style="color:#e74d3c"><a href="https://sites.google.com/view/victoraguirregabiriaswebsite/home">Victor Aguirregabiria</a></span>, 
-    <span style="color:#e74d3c"><a href="https://sites.google.com/site/robertclark09site/">Robert Clark</a></span>, and 
-    <span style="color:#e74d3c"><a href="https://en.gsm.pku.edu.cn/faculty/jackie.wang/">Hui Wang</a></span>), 
-    has been accepted by the <strong><em>American Economic Review</em></strong>!
+    </span>
   </li>
 
   <li>
