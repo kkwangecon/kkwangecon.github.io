@@ -24,11 +24,6 @@
   <li>
   <div class="show-more-container">
     <div class="content" id="more-content-1" style="display: none;">
-      <strong><strong>[Mar. 2025]</strong> I will be presenting at the 
-    <span style="color:#e74d3c">
-      <a href="https://urbaneconomics.org/meetings/emuea2025/">14th European Meeting of the Urban Economics Association</a></span>.
-      <br>
-      
       <strong>[Mar. 2025]</strong> The RA project I worked on, 
       "<span style="color:#e74d3c">
         <a href="https://www.aeaweb.org/articles?id=10.1257/aer.20200374&&from=f">
