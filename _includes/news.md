@@ -39,9 +39,7 @@
     <span style="color:#e74d3c"><a href="https://sites.google.com/view/victoraguirregabiriaswebsite/home">Victor Aguirregabiria</a></span>, 
     <span style="color:#e74d3c"><a href="https://sites.google.com/site/robertclark09site/">Robert Clark</a></span>, and 
     <span style="color:#e74d3c"><a href="https://en.gsm.pku.edu.cn/faculty/jackie.wang/">Hui Wang</a></span>), 
-    has been accepted by the <strong><em>American Economic Review</em></strong>!
-        
-      </div>
+    has been accepted by the <strong><em>American Economic Review</em></strong>! </div>
       <button onclick="toggleContent('more-content-1', this)">Show More</button>
     </div>
   </li>
