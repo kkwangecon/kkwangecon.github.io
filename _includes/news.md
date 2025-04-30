@@ -3,9 +3,9 @@
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
 <ul>
-  <li><strong>[Mar. 2025]</strong> I will be presenting at the 
+  <li><strong>[June 2025]</strong> I will participate in the
     <span style="color:#e74d3c">
-      <a href="https://urbaneconomics.org/meetings/emuea2025/">14th European Meeting of the Urban Economics Association</a>
+      <a href="https://www.econ.cuhk.edu.hk/econ/en-gb/news-event/student-activities/589-summerschool2025.html">CUHK Summer School of Asia in the Global Economy 2025, themed Trade and Environment</a>
     </span>.
   </li>
 
