@@ -20,7 +20,7 @@
     <span style="color:#e74d3c"><a href="https://en.gsm.pku.edu.cn/faculty/jackie.wang/">Hui Wang</a></span>), 
     has been accepted by the <strong><em>American Economic Review</em></strong>!
   </li>
-
+<br>
   <li>
   <div class="show-more-container">
     <div class="content" id="more-content-1" style="display: none;">
