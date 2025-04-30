@@ -28,7 +28,8 @@
     <span style="color:#e74d3c">
       <a href="https://www.aeaweb.org/conference/2025/program/1986?q=eNqrVipOLS7OzM8LqSxIVbKqhnGVrJQMlWp1lJITS1LT84sqgXwlHaXE4uL8ZAizJLUoF8JKSYTKlmTmpkJYZZmp5SDDigoKgAKmBiCTChLTQbKGQA5cMHwsXCKQ">Climate Change Impact, Adaptation, and Resilience in the Developing World</a>
     </span>" session at ASSA 2025.
-        
+     </div>
+        <div class="content" id="more-content-1" style="display: none;">
         <strong>[Mar. 2025]</strong> The RA project I worked on, 
     "<span style="color:#e74d3c">
       <a href="https://www.aeaweb.org/articles?id=10.1257/aer.20200374&&from=f">
