@@ -12,8 +12,7 @@
   <li><strong>[May 2025]</strong> I will deliver a mini lecture on my research in urban and environmental economics at the 
     <span style="color:#e74d3c">
       <a href="https://site.uibe.edu.cn/english/english.html">
-        School of International Trade and Economics@UIBE
-      </a>.
+        School of International Trade and Economics@UIBE</a>.
     </span>
   </li>
 
