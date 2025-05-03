@@ -5,8 +5,8 @@
 <ul>
   <li><strong>[Jun. 2025]</strong> I will participate in the
     <span style="color:#e74d3c">
-      <a href="https://www.econ.cuhk.edu.hk/econ/en-gb/news-event/student-activities/589-summerschool2025.html">CUHK Summer School of Asia in the Global Economy 2025, themed Trade and Environment</a>
-    </span>.
+      <a href="https://www.econ.cuhk.edu.hk/econ/en-gb/news-event/student-activities/589-summerschool2025.html">CUHK Summer School of Asia in the Global Economy 2025, themed Trade and Environment</a>.
+    </span>
   </li>
 
   <li><strong>[May 2025]</strong> I will deliver a mini lecture on my research in urban and environmental economics at the 
@@ -22,8 +22,8 @@
     <div class="content" id="more-content-1" style="display: none;">
       <strong>[Mar. 2025]</strong> I will be presenting at the 
     <span style="color:#e74d3c">
-      <a href="https://urbaneconomics.org/meetings/emuea2025/">14th European Meeting of the Urban Economics Association</a>
-    </span>.
+      <a href="https://urbaneconomics.org/meetings/emuea2025/">14th European Meeting of the Urban Economics Association</a>.
+    </span>
       <br>
        <strong>[Mar. 2025]</strong> The RA project I worked on, 
       "<span style="color:#e74d3c">
