@@ -14,6 +14,12 @@
         School of International Trade and Economics@UIBE</a></span>.
   </li>
 
+   <li><strong>[May 2025]</strong> I will attend
+    <span style="color:#e74d3c">
+      <a href="https://econ.fudan.edu.cn/info/1146/31927.htm">
+        The 11th Biennial International Conference on Transition and Economic Development</a></span> at Fudan University, where our research paper will be presented.
+  </li>
+
   <li>
   <div class="show-more-container">
     <div class="content" id="more-content-1" style="display: none;">
