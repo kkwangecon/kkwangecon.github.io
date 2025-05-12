@@ -3,14 +3,14 @@
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
 <ul>
-  <li><strong>[Jun. 2025]</strong> I will participate in the
-    <span style="color:#e74d3c">
-      <a href="https://www.econ.cuhk.edu.hk/econ/en-gb/news-event/student-activities/589-summerschool2025.html">CUHK Summer School of Asia in the Global Economy 2025, themed Trade and Environment</a></span>.
-  </li>
-
   <li><strong>[Jun. 2025]</strong> I will be presenting at
     <span style="color:#e74d3c">
       <a href="https://www.gsm.pku.edu.cn/smue_china"> The 3rd Summer Meeting in Urban Economics, China</a></span>.
+  </li>
+  
+  <li><strong>[Jun. 2025]</strong> I will participate in the
+    <span style="color:#e74d3c">
+      <a href="https://www.econ.cuhk.edu.hk/econ/en-gb/news-event/student-activities/589-summerschool2025.html">CUHK Summer School of Asia in the Global Economy 2025, themed Trade and Environment</a></span>.
   </li>
 
   <li><strong>[May 2025]</strong> I will deliver a mini lecture on my research in urban and environmental economics at the 
