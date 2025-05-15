@@ -28,6 +28,11 @@
   <li>
   <div class="show-more-container">
     <div class="content" id="more-content-1" style="display: none;">
+      <strong>[May 2025]</strong> I will attend
+    <span style="color:#e74d3c">
+      <a href="https://econ.fudan.edu.cn/info/1146/31927.htm">
+        The 11th Biennial International Conference on Transition and Economic Development</a></span> at Fudan University, where our paper will be presented.
+      <br>
       <strong>[Mar. 2025]</strong> I will be presenting at
     <span style="color:#e74d3c">
       <a href="https://urbaneconomics.org/meetings/emuea2025/">The 14th European Meeting of the Urban Economics Association</a></span>.
