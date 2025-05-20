@@ -14,15 +14,15 @@
       <a href="https://www.gsm.pku.edu.cn/smue_china"> The 3rd Summer Meeting in Urban Economics, China</a></span>.
   </li>
   
-  <li><strong>[May 2025]</strong> I will deliver a mini lecture on my research in urban and environmental economics at the 
-    <span style="color:#e74d3c">
-      <a href="https://site.uibe.edu.cn/english/english.html">
-        School of International Trade and Economics@UIBE</a></span>.
-  </li>
 
   <li>
   <div class="show-more-container">
     <div class="content" id="more-content-1" style="display: none;">
+     <strong>[May 2025]</strong> I will deliver a mini lecture on my research in urban and environmental economics at the 
+    <span style="color:#e74d3c">
+      <a href="https://site.uibe.edu.cn/english/english.html">
+        School of International Trade and Economics@UIBE</a></span>.
+      <br>
       <strong>[May 2025]</strong> I will attend
     <span style="color:#e74d3c">
       <a href="https://econ.fudan.edu.cn/info/1146/31927.htm">
