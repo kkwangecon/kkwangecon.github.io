@@ -18,7 +18,7 @@
 <li>
     <div style="margin-top: 10px;">
       <strong>Gradual Optimization Against Heterogeneous Moral Hazard: Evidence from a Fintech Lending Firm</strong> (with <span style="color:#e74d3c"><a href="https://lichengzheng.weebly.com/">Chengzheng Li</a></span>, and <span style="color:#e74d3c"><a href="https://sites.google.com/site/xiangma6">Xiang Ma</a></span>)</div>
-  <div style="margin-top: 2px;"> <u>Presentations</u>: <em>THU, ASSA 2024, The 2023 Microeconomics Workshop@XMU, The 2022 China Economics Summer Institute, CASS, PKU, SWUFE</em> </div>
+  <div style="margin-top: 2px;"> <u>Presentations</u>: <em>THU, ASSA 2024, 2024 Asian Meeting of the Econometric Society in China, The 2023 Microeconomics Workshop@XMU, The 2022 China Economics Summer Institute, CASS, PKU, SWUFE</em> </div>
 </li>
 
 </ul>
