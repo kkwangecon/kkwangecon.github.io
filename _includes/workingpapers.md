@@ -6,7 +6,7 @@
 
 <li>
   <strong>Microclimate Risks and Urban Businesses</strong> (with <span style="color:#e74d3c"><a href="https://www.jianweixing.com/">Jianwei Xing</a></span>, <span style="color:#e74d3c"><a href="https://www.ceibs.edu/zhang-hua">Hua Zhang</a></span>, <span style="color:#e74d3c"><a href="https://sites.google.com/view/shuangzhang">Shuang Zhang</a></span>, and <span style="color:#e74d3c"><a href="https://www.eric-zou.com/">Eric Zou</a></span>) 
-<div style="margin-top: 2px;"> <u>Presentations</u>: <em>19th North American Meeting of the Urban Economics Association(scheduled), Chicago, ASSA 2025, 14th Toulouse Conference on the Economics of Energy and Climate, Michigan Ross, Frontiers in ESG Research Workshop@HKU, LSE, PKU, FISF@FDU, UoBath, CEIBS</em> </div>
+<div style="margin-top: 2px;"> <u>Presentations</u>: <em>19th North American Meeting of the Urban Economics Association(scheduled), 2025 International Conference on Consumption Studies(scheduled), Chicago, ASSA 2025, 14th Toulouse Conference on the Economics of Energy and Climate, Michigan Ross, Frontiers in ESG Research Workshop@HKU, LSE, PKU, FISF@FDU, UoBath, CEIBS</em> </div>
 </li>
 
 <li>
