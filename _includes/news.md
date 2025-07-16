@@ -8,7 +8,7 @@
       <a href="https://urbaneconomics.org/meetings/uea2025/">19th North American Meeting of the Urban Economics Association</a></span>.
   </li>
 
-   <li><strong>[Jul. 2025]</strong> I will be presenting at the 
+   <li><strong>[Jul. 2025]</strong> I will present at the 
     <span style="color:#e74d3c">
       <a href="https://business.xtu.edu.cn/index.jsp?ac=view&cd=news&id=8955">2025 International Conference on Consumption Studies</a></span>.
   </li>
@@ -21,7 +21,7 @@
     <span style="color:#e74d3c">
       <a href="https://www.econ.cuhk.edu.hk/econ/en-gb/news-event/student-activities/589-summerschool2025.html">CUHK Summer School of Asia in the Global Economy 2025, themed Trade and Environment</a></span>.
       <br>
-       <strong>[Jun. 2025]</strong> I will be presenting at
+       <strong>[Jun. 2025]</strong> I will present at
     <span style="color:#e74d3c">
       <a href="https://www.gsm.pku.edu.cn/smue_china"> The 3rd Summer Meeting in Urban Economics, China</a></span>.
       <br>
@@ -35,7 +35,7 @@
       <a href="https://econ.fudan.edu.cn/info/1146/31927.htm">
         The 11th Biennial International Conference on Transition and Economic Development</a></span> at Fudan University, where our paper will be presented.
       <br>
-      <strong>[Mar. 2025]</strong> I will be presenting at
+      <strong>[Mar. 2025]</strong> I will present at
     <span style="color:#e74d3c">
       <a href="https://urbaneconomics.org/meetings/emuea2025/">The 14th European Meeting of the Urban Economics Association</a></span>.
       <br>
