@@ -7,6 +7,11 @@
     <span style="color:#e74d3c">
       <a href="https://urbaneconomics.org/meetings/uea2025/">19th North American Meeting of the Urban Economics Association</a></span>.
   </li>
+
+   <li><strong>[Jul. 2025]</strong> I will be presenting at the 
+    <span style="color:#e74d3c">
+      <a href="https://business.xtu.edu.cn/index.jsp?ac=view&cd=news&id=8955">2025 International Conference on Consumption Studies (ICCS)</a></span>.
+  </li>
   
 
   <li>
