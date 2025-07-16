@@ -10,7 +10,7 @@
 
    <li><strong>[Jul. 2025]</strong> I will be presenting at the 
     <span style="color:#e74d3c">
-      <a href="https://business.xtu.edu.cn/index.jsp?ac=view&cd=news&id=8955">2025 International Conference on Consumption Studies (ICCS)</a></span>.
+      <a href="https://business.xtu.edu.cn/index.jsp?ac=view&cd=news&id=8955">2025 International Conference on Consumption Studies</a></span>.
   </li>
   
 
