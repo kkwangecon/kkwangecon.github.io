@@ -32,7 +32,8 @@ enable_last_update: false
 
 # Images 
 avatar: ./assets/img/website_Jan2025_copy.jpg
-favicon: ./assets/img/website_Jan2025_ratio1_adj.jpg
+#favicon: ./assets/img/website_Jan2025_ratio1_adj.jpg
+favicon: ./assets/img/hku_logo.jpg
 favicon_dark: ./assets/img/website_Jan2025_ratio1_adj.jpg
 
 # Footnotes
