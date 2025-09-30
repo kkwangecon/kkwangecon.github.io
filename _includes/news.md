@@ -26,7 +26,7 @@
       <br>
       <strong>[Jun. 2025]</strong> I will participate in the
     <span style="color:#e74d3c">
-      <a href="https://www.econ.cuhk.edu.hk/econ/en-gb/news-event/student-activities/589-summerschool2025.html">CUHK Summer School of Asia in the Global Economy 2025, themed Trade and Environment</a></span>.
+      <a href="https://www.econ.cuhk.edu.hk/en/news-and-events/event/call-for-applications-cuhk-summer-school-of-asia-in-the-global-economy-2025/">CUHK Summer School of Asia in the Global Economy 2025, themed Trade and Environment</a></span>.
       <br>
        <strong>[Jun. 2025]</strong> I will present at
     <span style="color:#e74d3c">
