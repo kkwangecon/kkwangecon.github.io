@@ -3,6 +3,14 @@
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
 <ul>
+   <li><strong>[Nov. 2025]</strong> Our paper has been accepted for presentation at the
+    <span style="color:#e74d3c">
+      <a href="https://www.dropbox.com/scl/fi/n46457xr373egg535x3aa/poster_sino_japanese_space_workshop.jpg?rlkey=u3t5xhjxqj2rg6fgjwukcdw8g&st=pnhbd1ge&dl=0">2nd Sino-Japanese SPACE Workshop</a></span>.
+  </li>
+   <li><strong>[Oct. 2025]</strong> I will present at the
+    <span style="color:#e74d3c">
+      <a href="https://hkujcesgri.hku.hk/3rd-hku-governance-sustainability-conference/">3rd HKU Governance & Sustainability Conference</a></span>.
+  </li>
   <li><strong>[Oct. 2025]</strong> I will present at the
     <span style="color:#e74d3c">
       <a href="https://urbaneconomics.org/meetings/uea2025/">19th North American Meeting of the Urban Economics Association</a></span>.
