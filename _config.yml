@@ -1,10 +1,12 @@
 # Basic Information 
 title: Kangkai Wang
 position: Post-doctoral Fellow
-#affiliation: The University of Hong Kong   
-subaffiliation: HKU Business School 
+#affiliation: The University of Hong Kong  
+affiliation: HKU Business School 
+#subaffiliation: HKU Business School 
+affiliation_link: https://www.hkubs.hku.hk/
 #affiliation_link: https://www.hku.hk/
-subaffiliation_link: https://www.hkubs.hku.hk/
+#subaffiliation_link: https://www.hkubs.hku.hk/
 subaffiliation_logo: ./assets/img/HKUBS_Horizontal_White.webp
 email: kkwangec@hku.hk
 #email: kkwangecon@stu.pku.edu.cn
