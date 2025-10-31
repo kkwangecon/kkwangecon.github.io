@@ -7,6 +7,10 @@
     <span style="color:#e74d3c">
       <a href="https://iesr.jnu.edu.cn/2025smujinan/">2025 SMU-Jinan Conference on Urban and Regional Economics</a></span>.
   </li>
+      <li><strong>[Dec. 2025]</strong> I will participate in the
+    <span style="color:#e74d3c">
+      <a href="https://dseconf.org/dse2025hku#">Econometric Society Winter School in Dynamic Structural Econometrics 2025</a></span>.
+  </li>
    <li><strong>[Oct. 2025]</strong> I will present at the
     <span style="color:#e74d3c">
       <a href="https://hkujcesgri.hku.hk/3rd-hku-governance-sustainability-conference/">3rd HKU Governance & Sustainability Conference</a></span>.
