@@ -9,7 +9,7 @@
   </li>
       <li><strong>[Dec. 2025]</strong> I will participate in the
     <span style="color:#e74d3c">
-      <a href="https://dseconf.org/dse2025hku#">Econometric Society Winter School in Dynamic Structural Econometrics 2025</a></span>.
+      <a href="https://dseconf.org/dse2025hku#">Econometric Society Winter School in Dynamic Structural Econometrics(DSE) 2025 along with the DSE Conference</a></span>.
   </li>
    <li><strong>[Oct. 2025]</strong> I will present at the
     <span style="color:#e74d3c">
