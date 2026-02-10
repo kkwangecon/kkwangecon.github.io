@@ -3,70 +3,26 @@
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
 <ul>
-     <li><strong>[Dec. 2025]</strong> I will present at the
+     <li><strong>[Dec. 2025]</strong> I have been invited to give a seminar talk at
     <span style="color:#e74d3c">
-      <a href="https://iesr.jnu.edu.cn/2025smujinan/">2025 SMU-Jinan Conference on Urban and Regional Economics</a></span>.
+      <a href="https://michiganross.umich.edu/">Michigan Ross</a></span>.
   </li>
       <li><strong>[Dec. 2025]</strong> I will participate in the
     <span style="color:#e74d3c">
-      <a href="https://dseconf.org/dse2025hku#">Econometric Society Winter School in Dynamic Structural Econometrics(DSE) 2025 along with the DSE Conference</a></span>.
+      <a href="https://www.nber.org/conferences/chinese-economy-working-group-meeting-spring-2026">NBER Chinese Economy Working Group Meeting, Spring 2026</a></span>.
   </li>
-   <li><strong>[Oct. 2025]</strong> I will present at the
+   <li><strong>[Mar. 2026]</strong> Our paper has been accepted for the
     <span style="color:#e74d3c">
-      <a href="https://hkujcesgri.hku.hk/3rd-hku-governance-sustainability-conference/">3rd HKU Governance & Sustainability Conference</a></span>.
+      <a href="https://www.dropbox.com/scl/fi/frkckoo4ssi6xr3w3ol99/HK-workshop-tenative-agenda-March-2026.pdf?rlkey=akllxi8quw3t8ppgsf2o2km5m&st=1r14bl8k&dl=0">WSB-HKUST Workshop on Climate Risk, Sustainability and Real Estate</a></span>.
   </li>
   
 
   <li>
   <div class="show-more-container">
     <div class="content" id="more-content-1" style="display: none;">
-      <strong>[Oct. 2025]</strong> I will present at the
-    <span style="color:#e74d3c">
-      <a href="https://urbaneconomics.org/meetings/uea2025/">19th North American Meeting of the Urban Economics Association</a></span>.
-      <br>
-      <strong>[Jul. 2025]</strong> I will present at the 
-    <span style="color:#e74d3c">
-      <a href="https://business.xtu.edu.cn/index.jsp?ac=view&cd=news&id=8955">2025 International Conference on Consumption Studies</a></span>.
-      <br>
-      <strong>[Jun. 2025]</strong> I will participate in the
-    <span style="color:#e74d3c">
-      <a href="https://www.econ.cuhk.edu.hk/en/news-and-events/event/call-for-applications-cuhk-summer-school-of-asia-in-the-global-economy-2025/">CUHK Summer School of Asia in the Global Economy 2025, themed Trade and Environment</a></span>.
-      <br>
-       <strong>[Jun. 2025]</strong> I will present at
-    <span style="color:#e74d3c">
-      <a href="https://www.gsm.pku.edu.cn/smue_china"> The 3rd Summer Meeting in Urban Economics, China</a></span>.
-      <br>
-     <strong>[May 2025]</strong> I will deliver a mini lecture on my research in urban and environmental economics at the 
-    <span style="color:#e74d3c">
-      <a href="https://site.uibe.edu.cn/english/english.html">
-        School of International Trade and Economics@UIBE</a></span>.
-      <br>
-      <strong>[May 2025]</strong> I will attend
-    <span style="color:#e74d3c">
-      <a href="https://econ.fudan.edu.cn/info/1146/31927.htm">
-        The 11th Biennial International Conference on Transition and Economic Development</a></span> at Fudan University, where our paper will be presented.
-      <br>
-      <strong>[Mar. 2025]</strong> I will present at
-    <span style="color:#e74d3c">
-      <a href="https://urbaneconomics.org/meetings/emuea2025/">The 14th European Meeting of the Urban Economics Association</a></span>.
-      <br>
-       <strong>[Mar. 2025]</strong> The RA project I worked on, 
-      "<span style="color:#e74d3c">
-        <a href="https://www.aeaweb.org/articles?id=10.1257/aer.20200374&&from=f">
-          The Geographic Flow of Bank Funding and Access to Credit: Branch Networks, Synergies, and Local Competition
-        </a>
-      </span>" (by 
-      <span style="color:#e74d3c"><a href="https://sites.google.com/view/victoraguirregabiriaswebsite/home">Victor Aguirregabiria</a></span>, 
-      <span style="color:#e74d3c"><a href="https://sites.google.com/site/robertclark09site/">Robert Clark</a></span>, and 
-      <span style="color:#e74d3c"><a href="https://en.gsm.pku.edu.cn/faculty/jackie.wang/">Hui Wang</a></span>) 
-      has been accepted by the <strong><em>American Economic Review</em></strong>!
-      <br>
-      <strong>[Jan. 2025]</strong> Our paper has been accepted for the 
-      "<span style="color:#e74d3c">
-        <a href="https://www.aeaweb.org/conference/2025/program/1986?q=eNqrVipOLS7OzM8LqSxIVbKqhnGVrJQMlWp1lJITS1LT84sqgXwlHaXE4uL8ZAizJLUoF8JKSYTKlmTmpkJYZZmp5SDDigoKgAKmBiCTChLTQbKGQA5cMHwsXCKQ">
-          Climate Change Impact, Adaptation, and Resilience in the Developing World
-        </a>
-      </span>" session at ASSA 2025.
+      <strong>[Before 2026]</strong> 
+    <span style="color:#e74d3c">Click
+      <a href="https://www.dropbox.com/scl/fi/4i7vq8zido5bc2bbi1cfu/News.pdf?rlkey=8cos8fi0292tmk5y25dbpoebe&st=u6nf90ul&dl=0">here</a></span>.
     </div>
     <button onclick="toggleContent('more-content-1', this)">Show More</button>
   </div>
