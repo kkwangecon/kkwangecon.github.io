@@ -3,19 +3,18 @@
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
 <ul>
-     <li><strong>[Dec. 2025]</strong> I have been invited to give a seminar talk at
-    <span style="color:#e74d3c">
-      <a href="https://michiganross.umich.edu/">Michigan Ross</a></span>.
-  </li>
-      <li><strong>[Dec. 2025]</strong> I will participate in the
-    <span style="color:#e74d3c">
-      <a href="https://www.nber.org/conferences/chinese-economy-working-group-meeting-spring-2026">NBER Chinese Economy Working Group Meeting, Spring 2026</a></span>.
-  </li>
-   <li><strong>[Mar. 2026]</strong> Our paper has been accepted for the
+     <li><strong>[Mar. 2026]</strong> Our paper has been accepted for the
     <span style="color:#e74d3c">
       <a href="https://www.dropbox.com/scl/fi/frkckoo4ssi6xr3w3ol99/HK-workshop-tenative-agenda-March-2026.pdf?rlkey=akllxi8quw3t8ppgsf2o2km5m&st=1r14bl8k&dl=0">WSB-HKUST Workshop on Climate Risk, Sustainability and Real Estate</a></span>.
   </li>
-  
+     <li><strong>[Mar. 2026]</strong> I have been invited to give a seminar talk at
+    <span style="color:#e74d3c">
+      <a href="https://michiganross.umich.edu/">Michigan Ross</a></span>.
+  </li>
+      <li><strong>[Mar. 2026]</strong> I will participate in the
+    <span style="color:#e74d3c">
+      <a href="https://www.nber.org/conferences/chinese-economy-working-group-meeting-spring-2026">NBER Chinese Economy Working Group Meeting, Spring 2026</a></span>.
+  </li>
 
   <li>
   <div class="show-more-container">
