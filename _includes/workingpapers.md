@@ -15,6 +15,10 @@
 <div style="margin-top: 2px;"> <u>Presentations</u>: <em>Jinan IESR, WHU, SMUE 2025@PHBS, HNNU Business School, UIBE, The 11th Biennial International Conference on Transition and Economic Development, GSM Urban Economics Workshop@PKU, 14th European Meeting of the Urban Economics Association, PHBS Urban Economics Workshop</em> </div>
 </li>
 
+<li><strong>Market Integration and Product Variety: Evidence from China's Tobacco Tax Reform</strong> (with <span style="color:#e74d3c"><a href="https://www.shengmao-cao.com/">Shengmao Cao</a></span>, <span style="color:#e74d3c"><a href="https://www.qiwuecon.com/">Qi Wu</a></span>, and <span style="color:#e74d3c"><a href="https://www.jianweixing.com/">Jianwei Xing</a></span>)
+ <div style="margin-top: 2px;"> <u>Presentations</u>: <em>SUFE-Jinan Empirical IO Conference 2023@SUFE, The 7th CCER Summer Institute@PKU, GSM@PKU, SME@CUHKSZ, NSD@PKU</em> </div>
+</li>
+
 <li>
     <div style="margin-top: 10px;">
       <strong>Gradual Optimization Against Heterogeneous Moral Hazard: Evidence from a Fintech Lending Firm</strong> (with <span style="color:#e74d3c"><a href="https://lichengzheng.weebly.com/">Chengzheng Li</a></span>, and <span style="color:#e74d3c"><a href="https://sites.google.com/site/xiangma6">Xiang Ma</a></span>)</div>
