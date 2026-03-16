@@ -10,9 +10,5 @@
  <!-- <div style="margin-top: 2px;"> <u>Presentations</u>: <em></em> </div> -->
 </li>
 
-<li><strong>The Welfare Effects of Non-market Housing Allocation</strong> (with <span style="color:#e74d3c"><a href="https://zhongjiwei.org/">Zhongji Wei</a></span>, and <span style="color:#e74d3c"><a href="https://mbwong.com/">Michael B. Wong</a></span>)
- <!-- <div style="margin-top: 2px;"> <u>Presentations</u>: <em></em> </div> -->
-</li>
-
 </ul>
 
