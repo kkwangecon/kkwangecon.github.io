@@ -3,7 +3,15 @@
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
 <ul>
-     <li><strong>[Mar. 2026]</strong> Our paper has been accepted for the
+     <li><strong>[Jun. 2026]</strong> I will present at the 
+    <span style="color:#e74d3c">
+      <a href="https://www.econometricsociety.org/regional-activities/schedule/2026/06/19/2026-Asia-Meeting-China-Hong-Kong">Asia Meeting of the Econometric Society-China (AMES2026-China)</a></span>.
+  </li>
+      <li><strong>[May 2026]</strong> I will present at
+    <span style="color:#e74d3c">
+      <a href="https://www.hkubs.hku.hk/">HKU Business School</a></span>.
+  </li>
+     <li><strong>[Mar. 2026]</strong> Our paper has been accepted for presentation at the
     <span style="color:#e74d3c">
       <a href="https://www.dropbox.com/scl/fi/frkckoo4ssi6xr3w3ol99/HK-workshop-tenative-agenda-March-2026.pdf?rlkey=akllxi8quw3t8ppgsf2o2km5m&st=1r14bl8k&dl=0">WSB-HKUST Workshop on Climate Risk, Sustainability and Real Estate</a></span>.
   </li>
