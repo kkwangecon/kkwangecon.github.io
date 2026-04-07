@@ -27,19 +27,19 @@
   <li>
   <div class="show-more-container">
     <div class="content" id="more-content-1" style="display: none;">
-          <ul>
-         <strong>[Mar. 2026]</strong> Our paper has been accepted for presentation at the
+          <ul style="margin: 0; padding-left: 20px;">
+        <li> <strong>[Mar. 2026]</strong> Our paper has been accepted for presentation at the
     <span style="color:#e74d3c">
       <a href="https://www.dropbox.com/scl/fi/frkckoo4ssi6xr3w3ol99/HK-workshop-tenative-agenda-March-2026.pdf?rlkey=akllxi8quw3t8ppgsf2o2km5m&st=1r14bl8k&dl=0">WSB-HKUST Workshop on Climate Risk, Sustainability and Real Estate</a></span>.
-    
-<strong>[Mar. 2026]</strong> I will give a seminar talk at
+   </li> 
+<li><strong>[Mar. 2026]</strong> I will give a seminar talk at
     <span style="color:#e74d3c">
       <a href="https://michiganross.umich.edu/">Michigan Ross</a></span>.
-    
-     <strong>[Mar. 2026]</strong> I will participate in the
+   </li> 
+    <li> <strong>[Mar. 2026]</strong> I will participate in the
     <span style="color:#e74d3c">
       <a href="https://www.nber.org/conferences/chinese-economy-working-group-meeting-spring-2026">NBER Chinese Economy Working Group Meeting, Spring 2026</a></span>.
-    
+    </li>
       <li><strong>[Before 2026]</strong> 
     <span style="color:#e74d3c">Click
       <a href="https://www.dropbox.com/scl/fi/4i7vq8zido5bc2bbi1cfu/News.pdf?rlkey=8cos8fi0292tmk5y25dbpoebe&st=u6nf90ul&dl=0">here</a></span>.
