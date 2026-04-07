@@ -27,19 +27,17 @@
   <li>
   <div class="show-more-container">
     <div class="content" id="more-content-1" style="display: none;">
-
-          <li><strong>[Mar. 2026]</strong> Our paper has been accepted for presentation at the
+          <strong>[Mar. 2026]</strong> Our paper has been accepted for presentation at the
     <span style="color:#e74d3c">
       <a href="https://www.dropbox.com/scl/fi/frkckoo4ssi6xr3w3ol99/HK-workshop-tenative-agenda-March-2026.pdf?rlkey=akllxi8quw3t8ppgsf2o2km5m&st=1r14bl8k&dl=0">WSB-HKUST Workshop on Climate Risk, Sustainability and Real Estate</a></span>.
-  </li>
-     <li><strong>[Mar. 2026]</strong> I will give a seminar talk at
+  
+<strong>[Mar. 2026]</strong> I will give a seminar talk at
     <span style="color:#e74d3c">
       <a href="https://michiganross.umich.edu/">Michigan Ross</a></span>.
-  </li>
-      <li><strong>[Mar. 2026]</strong> I will participate in the
+  
+      <strong>[Mar. 2026]</strong> I will participate in the
     <span style="color:#e74d3c">
       <a href="https://www.nber.org/conferences/chinese-economy-working-group-meeting-spring-2026">NBER Chinese Economy Working Group Meeting, Spring 2026</a></span>.
-  </li>
   
       <strong>[Before 2026]</strong> 
     <span style="color:#e74d3c">Click
