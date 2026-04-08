@@ -31,6 +31,13 @@
     <span style="color:#e74d3c">Click
       <a href="https://www.dropbox.com/scl/fi/4i7vq8zido5bc2bbi1cfu/News.pdf?rlkey=8cos8fi0292tmk5y25dbpoebe&st=u6nf90ul&dl=0">here</a></span>.
     </div>
+
+      <div class="content" id="more-content-1" style="display: none;">
+        <strong>[Before 2026]</strong> 
+    <span style="color:#e74d3c">Click
+      <a href="https://www.dropbox.com/scl/fi/4i7vq8zido5bc2bbi1cfu/News.pdf?rlkey=8cos8fi0292tmk5y25dbpoebe&st=u6nf90ul&dl=0">here</a></span>.
+    </div>
+    
     <button onclick="toggleContent('more-content-1', this)">Show More</button>
   </div>
 </li>
