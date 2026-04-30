@@ -5,11 +5,11 @@
 <ul>
      <li><strong>[Jul. 2026]</strong> I will present at the 
     <span style="color:#e74d3c">
-      <a href="https://www.china-ces.org/Conferences/ConferenceDefault.aspx?ID=3061">2026 Chinese Economists Society (CES) China Annual Conference</a></span>.
+      <a href="https://www.china-ces.org/Conferences/ConferenceDefault.aspx?ID=3061">2026 Chinese Economists Society China Annual Conference</a></span>.
   </li>
      <li><strong>[Jun. 2026]</strong> I will present at the 
     <span style="color:#e74d3c">
-      <a href="https://www.econometricsociety.org/regional-activities/schedule/2026/06/19/2026-Asia-Meeting-China-Hong-Kong">Asia Meeting of the Econometric Society-China (AMES2026-China)</a></span>.
+      <a href="https://www.econometricsociety.org/regional-activities/schedule/2026/06/19/2026-Asia-Meeting-China-Hong-Kong">Asia Meeting of the Econometric Society-China</a></span>.
   </li>
      <li><strong>[Jun. 2026]</strong> I will present at the 
     <span style="color:#e74d3c">
