@@ -13,6 +13,10 @@
   </li>
      <li><strong>[Jun. 2026]</strong> I will present at the 
     <span style="color:#e74d3c">
+      <a href="https://www.hkea.org.hk/index.php/12th-conference">The 12th Hong Kong Economic Association Biennial Conference</a></span>.
+  </li>
+     <li><strong>[Jun. 2026]</strong> I will present at the 
+    <span style="color:#e74d3c">
       <a href="https://www.shine.sjtu.edu.cn/shine/notice/93038.html">The 9th International Conference of China and Development Studies (ICCDS)</a></span>.
   </li>
       <li><strong>[May 2026]</strong> I will present at
