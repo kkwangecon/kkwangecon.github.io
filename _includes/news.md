@@ -17,7 +17,7 @@
   </li>
      <li><strong>[Jun. 2026]</strong> I will present at the 
     <span style="color:#e74d3c">
-      <a href="https://www.shine.sjtu.edu.cn/shine/notice/93038.html">The 9th International Conference of China and Development Studies (ICCDS)</a></span>.
+      <a href="https://www.shine.sjtu.edu.cn/shine/notice/93038.html">The 9th International Conference of China and Development Studies</a></span>.
   </li>
       <li><strong>[May 2026]</strong> I will present at
     <span style="color:#e74d3c">
