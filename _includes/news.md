@@ -5,7 +5,7 @@
 <ul>
      <li><strong>[Jul. 2026]</strong> I will present at the 
     <span style="color:#e74d3c">
-      <a href="https://www.gsm.pku.edu.cn/smue_china/info/1401/1083.htm">4th Summer Meeting in Urban Economics, China,</a></span>.
+      <a href="https://www.gsm.pku.edu.cn/smue_china/info/1401/1083.htm">4th Summer Meeting in Urban Economics, China</a></span>.
   </li>
      <li><strong>[Jul. 2026]</strong> I will present at the 
     <span style="color:#e74d3c">
