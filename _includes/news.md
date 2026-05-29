@@ -7,7 +7,7 @@
     <span style="color:#e74d3c">
       <a href="https://www.gsm.pku.edu.cn/smue_china/info/1401/1083.htm">4th Summer Meeting in Urban Economics, China</a></span>.
   </li>
-     <li><strong>[Jun. 2026]</strong> Our paper has been accepted for presentation at
+     <li><strong>[Jul. 2026]</strong> Our paper has been accepted for presentation at
     <span style="color:#e74d3c">
       <a href="https://en.ccer.pku.edu.cn/newsevents/5d2d2ca036924912bcb59acd9150e449.htm">The 10th CCER Summer Institute</a></span>.
   </li>
