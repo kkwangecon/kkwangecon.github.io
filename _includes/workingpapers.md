@@ -25,4 +25,7 @@
   <div style="margin-top: 2px;"> <u>Presentations</u>: <em>THU, 2024 Asian Meeting of the Econometric Society in China, ASSA 2024, The 2023 Microeconomics Workshop@XMU, The 2022 China Economics Summer Institute, CASS, PKU, SWUFE</em> </div>
 </li>
 
+<li><strong>Transit Access and Labor Market Efficiency: Evidence from Mobile Phone Data</strong> (with <span style="color:#e74d3c"><a href="https://www.ifpri.org/profile/yanyan-liu/">Yanyan Liu</a></span>, <span style="color:#e74d3c"><a href="https://www.qiwuecon.com/">Qi Wu</a></span>, and <span style="color:#e74d3c"><a href="https://sites.google.com/site/jianhuanxuhome/home">Jianhuan Xu</a></span>)
+<div style="margin-top: 2px;"> <u>Presentations</u>: <em> The 10th CCER Summer Institute, The 13th International Workshop on Regional, Urban, and Spatial Economics in China</em> </div>
+</li>
 </ul>
