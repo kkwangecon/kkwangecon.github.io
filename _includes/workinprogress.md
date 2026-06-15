@@ -5,8 +5,8 @@
 <ul>
 
 <li><strong>Valuing Urban Sunshine</strong></li>
-<li><strong>Moving to Consumption Opportunities</strong></li>
 <li><strong>Electrifying Mobility Like China</strong></li>
+<li><strong>Moving to Consumption Opportunities</strong></li>
 
 
 </ul>
