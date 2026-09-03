@@ -3,7 +3,7 @@
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
 <ul>
-     <li><strong>[Sep. 2026]</strong> Our paper has been accepted for presentation at the
+     <li><strong>[Sep. 2026]</strong> I will present at the
     <span style="color:#e74d3c">
       <a href="https://urbaneconomics.org/meetings/uea2026/">20th North American Meeting of the Urban Economics Association</a></span>.
   </li>
