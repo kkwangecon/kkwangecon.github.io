@@ -1,5 +1,5 @@
 /* Add a black background color to the top navigation */
-@import url("https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&family=IBM+Plex+Mono:wght@500;600&display=swap");
 .topnav {
 	display: none;
     background-color: #002D72;
