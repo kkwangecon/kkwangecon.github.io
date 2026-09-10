@@ -1,4 +1,5 @@
 /* Add a black background color to the top navigation */
+@import url("https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap");
 .topnav {
 	display: none;
     background-color: #002D72;
@@ -183,4 +184,15 @@ th, td                  { border-bottom-color: #E4E0D7; }
   --global-theme-color: #7A2E1E;
   --global-hover-color: #7A2E1E;
 }
-
+header h1 { font-size: 22px; }
+header h1 .cn {
+  font-family: "Ma Shan Zheng", "Kaiti SC", STKaiti, serif;
+  font-size: 1.06em; letter-spacing: .05em;
+}
+header h1 .cn::before {
+  content: "|";
+  color: #7A2E1E;
+  font-family: inherit;
+  margin: 0 .36em;
+  font-weight: 400;
+}
