@@ -31,15 +31,21 @@
 </li>
 <li class="paper">
   <span class="paper-title">Pollution Information and Public Participation</span>
+  <span class="paper-meta">with <a class="coauthor" href="https://www.guojunhe.com/">Guojun He</a> and <a class="coauthor" href="https://www.hkubs.hku.hk/people/xiaoming-xie/">Xiaoming Xie</a></span>
+  <span class="paper-links"><span class="pending">PDF</span> &nbsp; <span class="pending">Abstract</span></span>
 </li>
 <li class="paper">
   <span class="paper-title">Green Building Certifications</span>
+  <span class="paper-meta">with <a class="coauthor" href="https://www.yuchengquan.com/home">Yucheng Quan</a> and <a class="coauthor" href="https://orcid.org/0009-0001-8522-960X">Xinru Yin</a></span>
+  <span class="paper-links"><span class="pending">PDF</span> &nbsp; <span class="pending">Abstract</span></span>
 </li>
 <li class="paper">
   <span class="paper-title">Valuing Urban Sunshine</span>
+  <span class="paper-links"><span class="pending">PDF</span> &nbsp; <span class="pending">Abstract</span></span>
 </li>
 <li class="paper">
   <span class="paper-title">E-Buses</span>
+  <span class="paper-links"><span class="pending">PDF</span> &nbsp; <span class="pending">Abstract</span></span>
 </li>
 </ul>
 
