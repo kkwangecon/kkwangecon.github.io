@@ -1,33 +1,51 @@
 <h1 id="workingpapers"></h1>
 
-<h2 style="margin: 30px 0px 10px;">Working Papers</h2>
+<h2 style="margin: 30px 0px 10px;">Research</h2>
 
+<h3 class="theme">Mobility and Connected Cities</h3>
 <ul>
-
-<li>
-  <strong>Microclimate Risks and Consumer Adaptation</strong> (with <span style="color:#e74d3c"><a href="https://www.jianweixing.com/">Jianwei Xing</a></span>, <span style="color:#e74d3c"><a href="https://www.ceibs.edu/zhang-hua">Hua Zhang</a></span>, <span style="color:#e74d3c"><a href="https://sites.google.com/view/shuangzhang">Shuang Zhang</a></span>, and <span style="color:#e74d3c"><a href="https://www.eric-zou.com/">Eric Zou</a></span>) 
-<div style="margin-top: 2px;"> <u>Presentations</u>: <em> 2025 SMU-Jinan Conference on Urban and Regional Economics, 3rd HKU Governance & Sustainability Conference, 19th North American Meeting of the Urban Economics Association, NUS, 2025 International Conference on Consumption Studies, Chicago, ASSA 2025, 14th Toulouse Conference on the Economics of Energy and Climate, Michigan Ross, Frontiers in ESG Research Workshop@HKU, LSE, PKU, FISF@FDU, UoBath, CEIBS</em> </div>
+<li class="paper">
+  <span class="paper-title">Urban Commuting: Travel Aversion and Location Adaptability</span>
+  <span class="paper-meta">with <a href="https://yizhengu.weebly.com/">Yizhen Gu</a>, <a href="https://zhiwang2013brownecon.weebly.com/">Zhi Wang</a> and <a href="https://en.gsm.pku.edu.cn/faculty/zhangq/">Qinghua Zhang</a></span>
+  <span class="paper-status">Working paper</span>
+  <span class="paper-links"><span class="pending">PDF</span> &nbsp; <span class="pending">Abstract</span></span>
 </li>
-
-<li>
-    <div style="margin-top: 10px;">
-      <strong>Urban Commuting: Travel Aversion and Location Adaptability</strong> (with <span style="color:#e74d3c"><a href="https://yizhengu.weebly.com/">Yizhen Gu</a></span>, <span style="color:#e74d3c"><a href="https://zhiwang2013brownecon.weebly.com/">Zhi Wang</a></span>, and <span style="color:#e74d3c"><a href="https://en.gsm.pku.edu.cn/faculty/zhangq/">Qinghua Zhang</a></span>)</div>
-<div style="margin-top: 2px;"> <u>Presentations</u>: <em>Jinan IESR, WHU, SMUE 2025@PHBS, HNNU Business School, UIBE, The 11th Biennial International Conference on Transition and Economic Development, GSM Urban Economics Workshop@PKU, 14th European Meeting of the Urban Economics Association, PHBS Urban Economics Workshop</em> </div>
+<li class="paper">
+  <span class="paper-title">Transit Access and Labor Market Efficiency: Evidence from Mobile Phone Data</span>
+  <span class="paper-meta">with <a href="https://www.ifpri.org/profile/yanyan-liu/">Yanyan Liu</a>, <a href="https://www.qiwuecon.com/">Qi Wu</a> and <a href="https://sites.google.com/site/jianhuanxuhome/home">Jianhuan Xu</a></span>
+  <span class="paper-status">Working paper</span>
+  <span class="paper-links"><span class="pending">PDF</span> &nbsp; <span class="pending">Abstract</span></span>
 </li>
+<li class="paper"><span class="paper-title">Moving to Consumption Opportunities</span></li>
+</ul>
 
-<li><strong>Transit Access and Labor Market Efficiency: Evidence from Mobile Phone Data</strong> (with <span style="color:#e74d3c"><a href="https://www.ifpri.org/profile/yanyan-liu/">Yanyan Liu</a></span>, <span style="color:#e74d3c"><a href="https://www.qiwuecon.com/">Qi Wu</a></span>, and <span style="color:#e74d3c"><a href="https://sites.google.com/site/jianhuanxuhome/home">Jianhuan Xu</a></span>)
-<div style="margin-top: 2px;"> <u>Presentations</u>: <em> 20th North American Meeting of the Urban Economics Association(scheduled), The 10th CCER Summer Institute, The 13th International Workshop on Regional, Urban, and Spatial Economics in China</em> </div>
+<h3 class="theme">Climate and Sustainable Cities</h3>
+<ul>
+<li class="paper">
+  <span class="paper-title">Microclimate Risks and Consumer Adaptation</span>
+  <span class="paper-meta">with <a href="https://www.jianweixing.com/">Jianwei Xing</a>, <a href="https://www.ceibs.edu/zhang-hua">Hua Zhang</a>, <a href="https://sites.google.com/view/shuangzhang">Shuang Zhang</a> and <a href="https://www.eric-zou.com/">Eric Zou</a></span>
+  <span class="paper-status">Working paper</span>
+  <span class="paper-links"><span class="pending">PDF</span> &nbsp; <span class="pending">Abstract</span></span>
 </li>
+<li class="paper"><span class="paper-title">Pollution Information and Public Participation</span></li>
+<li class="paper"><span class="paper-title">Green Building Certifications</span></li>
+<li class="paper"><span class="paper-title">Valuing Urban Sunshine</span></li>
+<li class="paper"><span class="paper-title">E-Buses</span></li>
+</ul>
 
-<li><strong>Market Integration and Product Variety: Evidence from China's Tobacco Tax Reform</strong> (with <span style="color:#e74d3c"><a href="https://www.shengmao-cao.com/">Shengmao Cao</a></span>, <span style="color:#e74d3c"><a href="https://www.qiwuecon.com/">Qi Wu</a></span>, and <span style="color:#e74d3c"><a href="https://www.jianweixing.com/">Jianwei Xing</a></span>)
- <div style="margin-top: 2px;"> <u>Presentations</u>: <em>SUFE-Jinan Empirical IO Conference 2023@SUFE, The 7th CCER Summer Institute@PKU, GSM@PKU, SME@CUHKSZ, NSD@PKU</em> </div>
+<h3 class="theme">Frictions and Divided Markets</h3>
+<ul>
+<li class="paper">
+  <span class="paper-title">Market Integration and Product Variety: Evidence from China's Tobacco Tax Reform</span>
+  <span class="paper-meta">with <a href="https://www.shengmao-cao.com/">Shengmao Cao</a>, <a href="https://www.qiwuecon.com/">Qi Wu</a> and <a href="https://www.jianweixing.com/">Jianwei Xing</a></span>
+  <span class="paper-status">Working paper</span>
+  <span class="paper-links"><span class="pending">PDF</span> &nbsp; <span class="pending">Abstract</span></span>
 </li>
-
-<li>
-    <div style="margin-top: 10px;">
-      <strong>Gradual Optimization Against Heterogeneous Moral Hazard: Evidence from a Fintech Lending Firm</strong> (with <span style="color:#e74d3c"><a href="https://lichengzheng.weebly.com/">Chengzheng Li</a></span>, and <span style="color:#e74d3c"><a href="https://sites.google.com/site/xiangma6">Xiang Ma</a></span>)</div>
-  <div style="margin-top: 2px;"> <u>Presentations</u>: <em>THU, 2024 Asian Meeting of the Econometric Society in China, ASSA 2024, The 2023 Microeconomics Workshop@XMU, The 2022 China Economics Summer Institute, CASS, PKU, SWUFE</em> </div>
+<li class="paper">
+  <span class="paper-title">Gradual Optimization Against Heterogeneous Moral Hazard: Evidence from a Fintech Lending Firm</span>
+  <span class="paper-meta">with <a href="https://lichengzheng.weebly.com/">Chengzheng Li</a> and <a href="https://sites.google.com/site/xiangma6">Xiang Ma</a></span>
+  <span class="paper-status">Working paper</span>
+  <span class="paper-links"><span class="pending">PDF</span> &nbsp; <span class="pending">Abstract</span></span>
 </li>
-
-
+<li class="paper"><span class="paper-title">Politics on the Menu</span></li>
 </ul>
