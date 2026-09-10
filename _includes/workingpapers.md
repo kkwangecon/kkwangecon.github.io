@@ -18,6 +18,7 @@
 </li>
 <li class="paper">
   <span class="paper-title">Moving to Consumption Opportunities</span>
+  <span class="paper-meta">with <a class="coauthor" href="https://www.guojunhe.com/">Guojun He</a> and <a class="coauthor" href="https://www.hkubs.hku.hk/people/ningxi-song/">Ningxi Song</a></span>
 </li>
 </ul>
 
