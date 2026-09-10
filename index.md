@@ -15,6 +15,4 @@ As an urban economist, my research asks how people connect their homes to the jo
 
 {% include_relative _includes/workingpapers.md %}
 
-{% include_relative _includes/workinprogress.md %}
-
 {% include_relative _includes/teaching.md %}
