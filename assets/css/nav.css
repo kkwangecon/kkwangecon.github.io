@@ -197,3 +197,21 @@ header h1 .cn::before {
   font-weight: 400;
 }
 autocolor { color: #7A2E1E; }
+/* ----- research section ----- */
+h3.theme {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 13px;
+  letter-spacing: .18em;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #7A2E1E;
+  margin: 40px 0 14px;
+}
+.paper       { margin-bottom: 16px; }
+.paper-title { font-weight: 600; color: #1B1A17; }
+.paper-meta  { display: block; margin-top: 2px; }
+.paper-status{ display: block; margin-top: 2px; font-style: italic; color: #7A2E1E; }
+.paper-links { display: block; margin-top: 4px;
+               font-family: "IBM Plex Mono", ui-monospace, monospace;
+               font-size: 11px; letter-spacing: .03em; }
+.paper-links .pending { color: #8A8780; border-bottom: 1px dashed #E4E0D7; }
