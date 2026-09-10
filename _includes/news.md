@@ -9,7 +9,7 @@
   </li>
   <li data-until="2026-10-05">
     <strong>[Oct. 5]</strong>
-    <a href="https://sites.google.com/view/j-tree/english">J-TREE International Workshop</a>, Tokyo
+    <a href="https://sites.google.com/view/j-tree/english">Japan-Tokyo Resource and Environmental Economics(J-TREE) International Workshop</a>, Tokyo
   </li>
   <li data-until="2026-09-26">
     <strong>[Sep. 25&ndash;26]</strong>
