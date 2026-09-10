@@ -215,3 +215,27 @@ h3.theme {
                font-family: "IBM Plex Mono", ui-monospace, monospace;
                font-size: 11px; letter-spacing: .03em; }
 .paper-links .pending { color: #8A8780; border-bottom: 1px dashed #E4E0D7; }
+/* ----- abstracts ----- */
+.abstract {
+  margin: 8px 0 14px;
+  max-width: 580px;
+  font-size: 15px;
+  line-height: 1.6;
+  color: #4C4A44;
+  text-align: justify;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
+.abstract p { margin: 0; }
+
+.paper-links .abs-toggle {
+  font: inherit;
+  letter-spacing: inherit;
+  color: #7A2E1E;
+  background: none;
+  border: 0;
+  border-bottom: 1px solid rgba(122, 46, 30, .32);
+  padding: 0;
+  cursor: pointer;
+}
+.paper-links .abs-toggle:hover { border-bottom-color: #7A2E1E; }
