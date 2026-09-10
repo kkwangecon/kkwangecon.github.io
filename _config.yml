@@ -35,7 +35,8 @@ linkedin: https://www.linkedin.com/in/kkwangecon/
 #researchgate: https://www.researchgate.net/profile/Song-Chen-60
 
 # Images 
-avatar: ./assets/img/website_Jan2025_copy.jpg
+avatar: ./assets/img/portrait.jpg
+#avatar: ./assets/img/website_Jan2025_copy.jpg
 #favicon: ./assets/img/website_Jan2025_ratio1_adj.jpg
 favicon: ./assets/img/hku_logo.jpg
 favicon_dark: ./assets/img/website_Jan2025_ratio1_adj.jpg
