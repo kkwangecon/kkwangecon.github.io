@@ -239,3 +239,4 @@ h3.theme {
   cursor: pointer;
 }
 .paper-links .abs-toggle:hover { border-bottom-color: #7A2E1E; }
+.course-meta { color: #8A8780; font-size: 14px; }
