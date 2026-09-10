@@ -240,3 +240,44 @@ h3.theme {
 }
 .paper-links .abs-toggle:hover { border-bottom-color: #7A2E1E; }
 .course-meta { color: #8A8780; font-size: 14px; }
+/* ===== dark mode ===== */
+/* Contrast checked against #171613: ink 14.3:1, soft 8.6:1, muted 5.1:1,
+   accent 5.7:1 — all pass WCAG AA for body text. The light-mode oxblood
+   #7A2E1E only reaches 1.9:1 here, so the accent is lightened. */
+
+@media (prefers-color-scheme: dark) {
+
+  body                    { background-color: #171613; color: #B8B2A7; }
+  h1, h2, h3, h4, h5, h6  { color: #E8E4DC; }
+  strong                  { color: #E8E4DC; }
+  dt, th                  { color: #B8B2A7; }
+
+  a                       { color: #C97D58; }
+  a:hover                 { color: #DDA07B; }
+  a small,
+  a:hover small           { color: #8C877E; }
+  autocolor               { color: #C97D58; }
+  .social-icons a         { color: #C97D58 !important; }
+
+  hr                      { background: #302C26; }
+  blockquote              { border-left-color: #302C26; }
+  th, td                  { border-bottom-color: #302C26; }
+  .image.avatar img       { border-color: #302C26; }
+
+  h3.theme                { color: #C97D58; }
+  .paper-title            { color: #E8E4DC; }
+  .abstract               { color: #B8B2A7; }
+  .course-meta            { color: #8C877E; }
+
+  .paper-links .abs-toggle       { color: #C97D58; border-bottom-color: rgba(201,125,88,.35); }
+  .paper-links .abs-toggle:hover { border-bottom-color: #C97D58; }
+  .paper-links .pending          { color: #8C877E; border-bottom-color: #302C26; }
+
+  .name .sep              { color: #C97D58; }
+  header h1 .cn::before   { color: #C97D58; }
+
+  :root {
+    --global-theme-color: #C97D58;
+    --global-hover-color: #C97D58;
+  }
+}
