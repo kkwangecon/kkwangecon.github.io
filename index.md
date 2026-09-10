@@ -6,11 +6,9 @@ layout: homepage
 
 Welcome to my website!
 
-I am Kangkai Wang (王慷楷), a Postdoctoral Fellow at the [HKU Jockey Club Enterprise Sustainability Global Research Institute](https://hkujcesgri.hku.hk/), which was established by [HKU Business School](https://www.hkubs.hku.hk/) and is funded by [The Hong Kong Jockey Club Charities Trust](https://charities.hkjc.com/en-us/about-us). I received my Ph.D. in Economics from the [Guanghua School of Management](https://en.gsm.pku.edu.cn/), [Peking University](https://english.pku.edu.cn/), in 2025.
+I am Kangkai Wang, a Postdoctoral Fellow at the [HKU Jockey Club Enterprise Sustainability Global Research Institute](https://hkujcesgri.hku.hk/). I received my Ph.D. in Economics from the [Guanghua School of Management](https://en.gsm.pku.edu.cn/), [Peking University](https://english.pku.edu.cn/), in 2025.
 
-My research interests lie in leveraging large-scale datasets and combining design-based (reduced-form) and model-based (structural) approaches to explore topics in urban economics, environmental economics, and empirical industrial organization. 
-
-Here is my [CV](https://www.dropbox.com/scl/fi/s89fvtt4gfvcvcanpgscl/CV_KangkaiWANG.pdf?rlkey=glfaq5osoi8eud20wcipr2fy7&st=ml08ww08&dl=0).
+As an urban economist, my research asks how people connect their homes to the jobs and shops a city offers, what the environment around each is worth, and what keeps markets apart.
 
 
 {% include_relative _includes/news.md %}
