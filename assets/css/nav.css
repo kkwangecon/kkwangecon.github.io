@@ -159,5 +159,28 @@
         margin-right:0;
       }
    }
-   
+
+/* ===== palette from the kkwangecon.com redesign ===== */
+/* Loaded last, so these win over style.css and pub.css. */
+
+body                    { background-color: #FFFEFC; color: #4C4A44; }
+h1, h2, h3, h4, h5, h6  { color: #1B1A17; }
+strong                  { color: #1B1A17; }
+dt, th                  { color: #4C4A44; }
+
+a                       { color: #7A2E1E; }
+a:hover                 { color: #5C2216; }
+a small,
+a:hover small           { color: #8A8780; }
+
+hr                      { background: #E4E0D7; }
+blockquote              { border-left-color: #E4E0D7; }
+th, td                  { border-bottom-color: #E4E0D7; }
+.image.avatar img       { border-color: #E4E0D7; }
+.social-icons a         { color: #7A2E1E !important; }
+
+:root {
+  --global-theme-color: #7A2E1E;
+  --global-hover-color: #7A2E1E;
+}
 
