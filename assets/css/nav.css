@@ -190,11 +190,13 @@ header h1 .cn {
   font-size: 1.06em; letter-spacing: .05em;
 }
 header h1 .cn::before {
-  content: "|";
-  color: #7A2E1E;
-  font-family: inherit;
-  margin: 0 .36em;
-  font-weight: 400;
+  content: "";
+  display: inline-block;
+  width: 1px;
+  height: 0.72em;
+  background: var(--accent);
+  margin: 0 .42em;
+  vertical-align: -0.06em;
 }
 autocolor { color: #7A2E1E; }
 /* ----- research section ----- */
