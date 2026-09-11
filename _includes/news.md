@@ -1,6 +1,6 @@
 <h1 id="news"></h1>
 
-<h2 style="margin: 30px 0px 10px;">Upcoming</h2>
+<h2 class="upcoming-head" style="margin: 30px 0px 10px;">Upcoming</h2>
 
 <ul id="upcoming-list">
   <li data-until="2026-10-08">
