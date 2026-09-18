@@ -5,7 +5,7 @@
 <ul id="upcoming-list">
   <li data-until="2026-12-16">
   <strong>[Dec. 14&ndash;16]</strong>
-<a href="https://economics.smu.edu.sg/events/urban/2026">2026 SMU-Jinan Conference on Urban and Regional Economics</a> joint with the <a href="https://www.worldbank.org/en/events/2026/12/14/11th-urbanization-and-development-conference">11th World Bank-George Washington University's Urbanization and Development Conference</a>  <span class="badge" title="Young Scholar Travel Grant">Travel Grant</span>, Singapore
+<span class="badge" title="Young Scholar Travel Grant">Travel Grant</span> <a href="https://economics.smu.edu.sg/events/urban/2026">2026 SMU-Jinan Conference on Urban and Regional Economics</a> joint with the <a href="https://www.worldbank.org/en/events/2026/12/14/11th-urbanization-and-development-conference">11th World Bank-George Washington University's Urbanization and Development Conference</a>, Singapore
 </li>
   <li data-until="2026-10-08">
     <strong>[Oct. 8]</strong>
