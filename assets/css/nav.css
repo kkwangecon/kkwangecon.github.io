@@ -334,3 +334,11 @@ h2.upcoming-head {
   text-transform: uppercase;
   color: var(--accent);
 }
+#upcoming-list .badge {
+  font-family: "IBM Plex Mono", …; font-size: 9.5px;
+  letter-spacing: .1em; text-transform: uppercase;
+  color: var(--accent);
+  border: 1px solid var(--accent-rule);
+  border-radius: 2px;
+  padding: 1px 6px 0;
+}
