@@ -350,3 +350,8 @@ h2.upcoming-head {
   vertical-align: 1.5px;
   white-space: nowrap;
 }
+section > p {
+  text-align: justify;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
