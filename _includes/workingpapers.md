@@ -27,7 +27,13 @@
 <li class="paper">
   <span class="paper-title">Microclimate Risks and Consumer Adaptation</span>
   <span class="paper-meta">with <a class="coauthor" href="https://www.jianweixing.com/">Jianwei Xing</a>, <a class="coauthor" href="https://www.ceibs.edu/zhang-hua">Hua Zhang</a>, <a class="coauthor" href="https://sites.google.com/view/shuangzhang">Shuang Zhang</a> and <a class="coauthor" href="https://www.eric-zou.com/">Eric Zou</a></span>
-  <span class="paper-links"><span class="pending">PDF</span> &nbsp; <button type="button" class="abs-toggle" data-target="abs-microclimate">Abstract</button></span>
+  <span class="paper-links">
+    <a href="https://static1.squarespace.com/static/56034c20e4b047f1e0c1bfca/t/6ab97a09cf7cc070803b645b/1790540297744/XWZZZ_2026-9.pdf"
+       target="_blank"
+       rel="noopener noreferrer">PDF</a>
+    &nbsp;
+    <button type="button" class="abs-toggle" data-target="abs-microclimate">Abstract</button>
+  </span>
   <div class="abstract" id="abs-microclimate" hidden><p>The economic consequences of climate change are typically studied at aggregate spatial scales, such as across countries or cities. This paper shifts the lens to within-city climate variation, or microclimate, and shows that it has important economic effects. Using satellite temperature data at 1&nbsp;km resolution matched to transaction records from 89,040 restaurants in a major Chinese city, we estimate that a day of localized heat above 30&deg;C reduces weekly restaurant revenue by roughly 7%, driven primarily by changes in consumer behavior rather than supply-side adjustments. To study how consumers adapt, we estimate a discrete choice model of restaurant demand incorporating microclimate amenities, travel costs, and prices. Consumers respond to local heat by shifting dining trips toward restaurants in cooler, greener areas, and we estimate their willingness to pay per meal for a 1&deg;C reduction in dining-location temperature. This behavioral adaptation accounts for a large share of the reduced-form revenue losses. Counterfactual simulations indicate that existing urban green infrastructure contributes substantially to annual restaurant revenue citywide, with benefits that exceed the city&rsquo;s investment in green space. Our results show that microclimate is an economically important source of urban business risk, and that ecological infrastructure offers substantial returns as a vehicle for climate adaptation.</p></div>
 </li>
 <li class="paper">
