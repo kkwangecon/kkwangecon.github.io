@@ -262,21 +262,36 @@ h3.theme {
 .paper-title  { font-weight: 600; color: var(--ink); }
 .paper-meta   { display: block; margin-top: 2px; }
 .paper-status { display: block; margin-top: 2px; font-style: italic; color: var(--accent); }
-.paper-links  {
-  display: block; margin-top: 4px;
+.paper-links {
+  display: block;
+  margin-top: 4px;
   font-family: "IBM Plex Mono", ui-monospace, monospace;
-  font-size: 11px; letter-spacing: .03em;
+  font-size: 11px;
+  letter-spacing: .03em;
 }
-.paper-links .pending { color: var(--muted); border-bottom: 1px dashed var(--rule); }
-.paper-links .abs-toggle {
-  font: inherit; letter-spacing: inherit;
-  color: var(--accent);
-  background: none; border: 0;
-  border-bottom: 1px solid var(--accent-rule);
-  padding: 0; cursor: pointer;
-}
-.paper-links .abs-toggle:hover { border-bottom-color: var(--accent); }
 
+.paper-links .pending {
+  color: var(--muted);
+  border-bottom: 1px dashed var(--rule);
+}
+
+.paper-links .pdf-link,
+.paper-links .abs-toggle {
+  font: inherit;
+  letter-spacing: inherit;
+  color: var(--accent);
+  background: none;
+  border: 0;
+  border-bottom: 1px solid var(--accent-rule);
+  padding: 0;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.paper-links .pdf-link:hover,
+.paper-links .abs-toggle:hover {
+  border-bottom-color: var(--accent);
+}
 .abstract {
   margin: 8px 0 14px;
   max-width: 580px;
