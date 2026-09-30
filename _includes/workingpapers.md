@@ -27,7 +27,7 @@
 <li class="paper">
   <span class="paper-title">Microclimate Risks and Consumer Adaptation</span>
   <span class="paper-meta">with <a class="coauthor" href="https://www.jianweixing.com/">Jianwei Xing</a>, <a class="coauthor" href="https://www.ceibs.edu/zhang-hua">Hua Zhang</a>, <a class="coauthor" href="https://sites.google.com/view/shuangzhang">Shuang Zhang</a> and <a class="coauthor" href="https://www.eric-zou.com/">Eric Zou</a></span>
-  <span class="pdf-link">
+  <span class="paper-link">
     <a href="https://static1.squarespace.com/static/56034c20e4b047f1e0c1bfca/t/6ab97a09cf7cc070803b645b/1790540297744/XWZZZ_2026-9.pdf"
        target="_blank"
        rel="noopener noreferrer">PDF</a>
