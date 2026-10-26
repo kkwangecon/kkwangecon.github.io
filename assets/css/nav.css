@@ -261,7 +261,17 @@ h3.theme {
 .paper        { margin-bottom: 16px; }
 .paper-title  { font-weight: 600; color: var(--ink); }
 .paper-meta   { display: block; margin-top: 2px; }
-.paper-status { display: block; margin-top: 2px; font-style: italic; color: var(--accent); }
+.paper-status {
+  display: block;
+  margin-top: 2px;
+  font-style: italic;
+  color: #333;
+}
+
+.paper-status strong {
+  color: var(--accent);
+  font-weight: 700;
+}
 .paper-links {
   display: block;
   margin-top: 4px;
