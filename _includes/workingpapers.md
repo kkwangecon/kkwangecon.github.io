@@ -28,7 +28,7 @@
   <span class="paper-title">Microclimate Risks and Consumer Adaptation</span>
   <span class="paper-meta">with <a class="coauthor" href="https://www.jianweixing.com/">Jianwei Xing</a>, <a class="coauthor" href="https://www.ceibs.edu/zhang-hua">Hua Zhang</a>, <a class="coauthor" href="https://sites.google.com/view/shuangzhang">Shuang Zhang</a> and <a class="coauthor" href="https://www.eric-zou.com/">Eric Zou</a></span>
   <span class="paper-status">
-  Under Review
+  Under Review, American Economic Review
 </span>
   <span class="paper-links">
   <a class="pdf-link"
