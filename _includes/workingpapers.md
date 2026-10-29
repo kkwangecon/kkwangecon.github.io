@@ -53,9 +53,6 @@
 <li class="paper">
   <span class="paper-title">Valuing Urban Sunshine</span>
 </li>
-<li class="paper">
-  <span class="paper-title">E-Buses</span>
-</li>
 </ul>
 
 <h3 class="theme">Frictions and Divided Markets</h3>
