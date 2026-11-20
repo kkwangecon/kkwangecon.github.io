@@ -7,6 +7,10 @@
   <strong>[Dec. 14&ndash;16]</strong>
 <span class="badge" title="Young Scholar Travel Grant">Travel Grant</span> <a href="https://economics.smu.edu.sg/events/urban/2026">2026 SMU-Jinan Conference on Urban and Regional Economics</a> / <a href="https://www.worldbank.org/en/events/2026/12/14/11th-urbanization-and-development-conference">11th World Bank-George Washington University's Urbanization and Development Conference</a>, Singapore
 </li>
+  <li data-until="2026-12-10">
+  <strong>[Dec. 8&ndash;10]</strong>
+<span class="badge" title="Conference Assistant">Conference Assistant</span> <a href="https://hkujcesgri.hku.hk/winter-2026-coase-project-conference/">Winter 2026 Coase Project Conference</a>, Hong Kong
+</li>
   <li data-until="2026-10-08">
     <strong>[Oct. 8]</strong>
     <a href="https://sites.google.com/view/hitotsubashi-trade-urban-econ/">Hitotsubashi Trade/Urban Economics Workshop</a>, Tokyo
