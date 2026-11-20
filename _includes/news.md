@@ -9,7 +9,7 @@
 </li>
   <li data-until="2026-12-16">
   <strong>[Dec. 14&ndash;16]</strong>
-<span class="badge" title="Young Scholar Travel Grant">WB Travel Grant</span> <a href="https://economics.smu.edu.sg/events/urban/2026">2026 SMU-Jinan Conference on Urban and Regional Economics</a> / <a href="https://www.worldbank.org/en/events/2026/12/14/11th-urbanization-and-development-conference">11th World Bank-George Washington University's Urbanization and Development Conference</a>, Singapore
+<span class="badge" title="Young Scholar Travel Grant">Young Scholar Travel Grant</span> <a href="https://economics.smu.edu.sg/events/urban/2026">2026 SMU-Jinan Conference on Urban and Regional Economics</a> / <a href="https://www.worldbank.org/en/events/2026/12/14/11th-urbanization-and-development-conference">11th World Bank-George Washington University's Urbanization and Development Conference</a>, Singapore
 </li>
   <li data-until="2026-12-10">
   <strong>[Dec. 8&ndash;10]</strong>
