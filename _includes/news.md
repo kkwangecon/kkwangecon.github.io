@@ -3,8 +3,8 @@
 <h2 class="upcoming-head" style="margin: 30px 0px 10px;">Upcoming</h2>
 
 <ul id="upcoming-list">
-  <li data-until="2026-12-10">
-  <strong>[Dec. 8&ndash;10]</strong>
+  <li data-until="2026-12-19">
+  <strong>[Dec. 17&ndash;19]</strong>
 <span class="badge" title="Invited Participant">Invited Participant</span> <a href="https://www.nber.org/conferences/chinese-economy-working-group-meeting-fall-2026">Chinese Economy Working Group Meeting</a>, Shanghai
 </li>
   <li data-until="2026-12-16">
