@@ -13,7 +13,7 @@
 </li>
   <li data-until="2026-12-10">
   <strong>[Dec. 8&ndash;10]</strong>
-<span class="badge" title="Conference Assistant">Conference Assistant</span> <a href="https://hkujcesgri.hku.hk/winter-2026-coase-project-conference/">Winter 2026 Coase Project Conference</a>, Hong Kong
+<span class="badge" title="Conference Coordinator">Conference Coordinator</span> <a href="https://hkujcesgri.hku.hk/winter-2026-coase-project-conference/">Winter 2026 Coase Project Conference</a>, Hong Kong
 </li>
   <li data-until="2026-10-08">
     <strong>[Oct. 8]</strong>
