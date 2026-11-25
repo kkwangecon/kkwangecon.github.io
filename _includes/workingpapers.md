@@ -6,7 +6,7 @@
 <ul>
 <li class="paper">
   <span class="paper-title">Urban Commuting: Travel Aversion and Location Adaptability</span>
-  <span class="paper-meta">with <a class="coauthor" href="https://yizhengu.weebly.com/">Yizhen Gu</a>, <a class="coauthor" href="https://zhiwang2013brownecon.weebly.com/">Zhi Wang</a> and <a class="coauthor" href="https://en.gsm.pku.edu.cn/faculty/zhangq/">Qinghua Zhang</a></span>
+  <span class="paper-meta">with <a class="coauthor" href="https://yizhengu.com/">Yizhen Gu</a>, <a class="coauthor" href="https://zhiwang2013brownecon.weebly.com/">Zhi Wang</a> and <a class="coauthor" href="https://en.gsm.pku.edu.cn/faculty/zhangq/">Qinghua Zhang</a></span>
   <span class="paper-links"><span class="pending">PDF</span> &nbsp; <button type="button" class="abs-toggle" data-target="abs-commuting">Abstract</button></span>
   <div class="abstract" id="abs-commuting" hidden><p>We disentangle two fundamental parameters underlying workers&rsquo; residence and workplace choices that shape urban commuting profiles: travel aversion and location adaptability. Using a quantitative spatial model that integrates travel mode and residence-workplace location choices, and a dataset of nearly 5 million bilateral routes across more than 200 Chinese cities, we find that both parameters vary substantially across cities. Travel aversion correlates with environmental factors, while location adaptability relates to the spatial organization of jobs and housing. A quantitative example of Shanghai suggests distinct general equilibrium implications of these two parameters. These findings point to micro-foundations for the commuting patterns that distinguish cities from one another.</p></div>
 </li>
